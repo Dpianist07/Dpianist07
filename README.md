@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Dpianist07&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+  <img src="https://count.getloli.com/get/@Dpianist07?theme=rule34" />
 </p>
