@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="https://count.getloli.com/get/@Dpianist07?theme=moebooru" />
+  <img src="https://komarev.com/ghpvc/?username=Dpianist07&label=PROFILE+VIEWS&color=grey&style=for-the-badge" />
 </p>
